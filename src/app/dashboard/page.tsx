@@ -1,4 +1,5 @@
 import { Button } from '@/components/ui/button'
+import { UserButton } from '@clerk/nextjs'
 import { ArrowLeft, ArrowRight } from 'lucide-react'
 import Link from "next/link"
 import React from 'react'
@@ -14,11 +15,17 @@ const DashboardPage = (props: Props) => {
         <div className='flex justify-between items-center md:flex-row flex-col'>
           <div className='flex items-center'>
             <Link href='/'>
-              <Button className='bg-blue-600'> 
+              <Button className='bg-blue-600' size="sm"> 
                 <ArrowLeft className='mr-1 w-4 h-4'></ArrowLeft>
                 Back
               </Button>
             </Link>
+            <div className="w-4"></div>
+            <h1 className="text-3x1 font-bold text-gray-900">
+              My Notes
+            </h1>
+            <div className="w-4"></div>
+            <UserButton />
           </div>
         </div>
       </div>
