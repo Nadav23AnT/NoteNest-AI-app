@@ -1,5 +1,5 @@
-# NoteNest - AI App
-## AI note taking app
+# NoteNest - AI Note Taking App
+
 ![project-notenest](https://github.com/Nadav23AnT/NoteNest-AI-app/assets/71144691/c2bd969d-fe2b-47f2-adda-9522053e3c4e)
 ## Getting Started
 Welcome to NoteNest-AI! This project showcases the integration of cutting-edge technologies to build a dynamic, efficient, and user-friendly application. Dive into the codebase to explore how we've leveraged the latest tools and technologies to deliver a top-notch experience.
