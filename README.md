@@ -1,4 +1,4 @@
-# NoteNest - AI Note Taking App
+# 🌐NoteNest - AI Note Taking App
 
 ![project-notenest](https://github.com/Nadav23AnT/NoteNest-AI-app/assets/71144691/c2bd969d-fe2b-47f2-adda-9522053e3c4e)
 ## Getting Started
