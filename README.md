@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![project-notenest](https://github.com/Nadav23AnT/NoteNest-AI-app/assets/71144691/c2bd969d-fe2b-47f2-adda-9522053e3c4e)
 
 ## Getting Started
 
