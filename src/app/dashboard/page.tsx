@@ -1,4 +1,5 @@
 import { Button } from '@/components/ui/button'
+import { Separator } from '@/components/ui/separator'
 import { UserButton } from '@clerk/nextjs'
 import { ArrowLeft, ArrowRight } from 'lucide-react'
 import Link from "next/link"
@@ -27,6 +28,14 @@ const DashboardPage = (props: Props) => {
             <div className="w-4"></div>
             <UserButton />
           </div>
+        </div>
+        <div className='h-8'></div>
+        <Separator />
+        <div className='h-8'></div>
+        {/* list all notes */}
+        {/* TODO condition */}
+        <div className="text-center">
+          <h2 className='text-xl text-gray-500'>You have no notes yet</h2>
         </div>
       </div>
     </div>
